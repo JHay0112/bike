@@ -1,0 +1,13 @@
+# Bike .gitignore
+#
+# Author: J. L. Hay
+
+# General
+*/build/*
+
+# VS Code
+*.vscode/*
+
+# SOLIDWORKS
+*.STL
+~$*.SLDPRT
