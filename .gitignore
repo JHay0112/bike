@@ -8,6 +8,6 @@
 # VS Code
 *.vscode/*
 
-# SOLIDWORKS
+# FreeCad
 *.STL
-~$*.SLDPRT
+*.FCBak
