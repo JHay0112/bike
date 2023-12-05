@@ -1,5 +1,7 @@
 # Bike
 
+![My bike.](./img/bike.jpg)
+
 This repository contains design and source files for an electrical system for my bicycle. The 
 intention is to develop the bicycle design in stages.
 
