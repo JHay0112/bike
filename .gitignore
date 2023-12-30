@@ -11,3 +11,9 @@
 # FreeCad
 *.STL
 *.FCBak
+
+# KiCAD
+elec/*
+!elec/*.kicad_pro
+!elec/*.kicad_sch
+!elec/*.kicad_pcb
